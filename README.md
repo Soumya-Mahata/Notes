@@ -1,1 +1,1 @@
-# notr
+I am learning Git.
